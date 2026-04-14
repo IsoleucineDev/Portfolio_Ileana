@@ -91,7 +91,7 @@ export function AboutSection() {
       >
         <h3 className="text-xl font-bold text-gray-800 mb-4 text-center">Perfil Profesional</h3>
         <p className="text-gray-700 leading-relaxed text-base text-center">
-          Estudiante de Ingeniería en el Tec de Monterrey y socia de la Asociación Astronómica del Valle de Toluca (AAVAT). 
+          Estudiante de Ingeniería en Tecnologias Computacionalesen el Tec de Monterrey y socia de la Asociación Astronómica del Valle de Toluca (AAVAT). 
           Cuento con certificaciones de Oracle en Java y manejo de entornos Linux. Me apasiona compartir lo que aprendo, 
           por lo que participo constantemente dando conferencias y colaborando en la redacción de secciones infantiles sobre astronomía.
         </p>
